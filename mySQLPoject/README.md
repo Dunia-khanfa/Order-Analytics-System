@@ -15,15 +15,15 @@ Key Features:
 
 🔒 Data Integrity: The database uses foreign key constraints and indexes to ensure data consistency and performance.
 
-Project Structure
+Project Structure:
+
 The system is composed of two main tables:
 
 order_details: Stores details of each order, such as the order date, time, and items ordered.
 
 menu_items: Contains information about each menu item, such as item name, category, and price.
 
-Sample menu items:
-
+Sample Menu Items:
 Hamburger: Category - American, Price - $12.95
 
 Tofu Pad Thai: Category - Asian, Price - $14.5
@@ -57,3 +57,4 @@ MySQL: The relational database management system (RDBMS) used to store, organize
 SQL: The language used to perform data manipulation, queries, and reporting.
 
 Indexes & Foreign Key Constraints: To optimize performance and maintain data integrity.
+
