@@ -1,11 +1,11 @@
 # Order-Analytics-System
 Restaurant Order Management System built with MySQL. Manages order details, menu items, and calculates total spending per order. Includes queries for total spend calculation, grouping orders by spend, and generating insights such as the most expensive items and average spend per category.
 
-Overview
+Overview:
 
 The Order Analytics System is a database project designed to manage and analyze restaurant order data. It allows efficient tracking and querying of menu items and order details, offering valuable insights into order trends, item popularity, and customer preferences. The system is built using MySQL as the relational database management system (RDBMS), and SQL queries are used for analysis and reporting.
 
-Key Features
+Key Features:
 
 🍔 Menu Item Management: Organize menu items, including their categories and prices.
 
@@ -50,7 +50,8 @@ Indexes: Efficient indexing on critical fields like order_date and item_id to sp
 
 Foreign Key Constraints: These constraints ensure that relationships between orders and menu items are maintained accurately and consistently.
 
-Technologies Used
+Technologies Used:
+
 MySQL: The relational database management system (RDBMS) used to store, organize, and query data.
 
 SQL: The language used to perform data manipulation, queries, and reporting.
